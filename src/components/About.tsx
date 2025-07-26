@@ -24,7 +24,7 @@ const About = () => {
               <div className="w-full max-w-md mx-auto">
                 <div className="relative overflow-hidden rounded-2xl shadow-2xl">
                   <img 
-                    src="public/profile.jpeg"
+                    src="/profile.jpeg"
                     alt="About Rohithraj"
                     className="w-full h-96 object-cover"
                   />
